@@ -27,7 +27,7 @@ wiki 在线知识库，适用于个人或团队作为日常学习记录的 web �
 
 前端主要采用：
 
-* Vue + Echarts + Ant Design
+* Vue + Echarts + wangEditor + Ant Design 
 
 部署：
 
